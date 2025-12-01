@@ -1,0 +1,51 @@
+Style
+.menu {
+    display: inline-block;
+}
+
+.menu_item {
+    display: inline-block;
+    background-color: rgb(247, 229, 180);
+    padding: 15px;
+}
+
+.menu_item:hover {
+    background-color: rgb(243, 217, 144);
+}
+
+.menu_li {
+    display: inline-block;
+}
+
+
+.menu_li a:visited {
+    color: black;
+}
+
+.menu_li a:link {
+    color: black;
+}
+
+body {
+    background-color:rgb(255, 255, 255)
+}
+
+#Home {
+    margin: 10px;
+}
+
+#Sobre_Nós {
+    margin-top: 10px;
+}
+
+hr {
+    border: solid black;
+}
+
+#h1_Home {
+    text-align: center;
+}
+
+#Botões_Animais {
+    margin: 10px
+}
